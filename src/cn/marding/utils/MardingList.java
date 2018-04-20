@@ -6,7 +6,8 @@ import java.util.Iterator;
 /**
  * 码丁集合1.0 更加完善的有序数据存储集合
  * @version 1.0
- * @author WowkaOkay
+ * @author 
+ * 这是个有毒的集合
  * @since 2018-4-18
  */
 
