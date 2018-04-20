@@ -18,9 +18,6 @@ public class MardingList<W> implements Iterable {
 
 	// 集合元素个数/数组长度
 	private int size;
-	// public - 跨包
-	// protected 不跨包 但是 子类可以调用
-	// private - 当前自己使用
 
 	/**
 	 * 返回 此集合中元素的个数
