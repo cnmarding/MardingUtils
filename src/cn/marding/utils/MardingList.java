@@ -4,7 +4,11 @@ import java.lang.reflect.Field;
 import java.util.Iterator;
 
 /**
+<<<<<<< HEAD
  * 码丁集合1.0 更加完善的有序数据存储集合111
+=======
+ * 码丁集合1.1 更加完善的有序数据存储集合
+>>>>>>> refs/remotes/origin/master
 <<<<<<< HEAD 2·12112·
 <<<<<<< HEAD
  * @version 1.0123456
