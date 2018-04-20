@@ -4,7 +4,7 @@ import java.lang.reflect.Field;
 import java.util.Iterator;
 
 /**
- * 码丁集合1.0 更加完善的有序数据存储集合
+ * 码丁集合1.1 更加完善的有序数据存储集合
 <<<<<<< HEAD 2·12112·
 <<<<<<< HEAD
  * @version 1.0123456
