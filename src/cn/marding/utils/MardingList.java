@@ -6,8 +6,13 @@ import java.util.Iterator;
 /**
  * 码丁集合1.0 更加完善的有序数据存储集合
 <<<<<<< HEAD 2·12112·
+<<<<<<< HEAD
  * @version 1.0123456
  * @author Antony
+=======
+ * @version 1.0
+ * @author Antonylllll
+>>>>>>> refs/remotes/origin/master
  * @since 2018-4-18
  * ssaddas 21213322332 ====12312321
 =======
