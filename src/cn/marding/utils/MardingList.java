@@ -10,7 +10,6 @@ import java.util.Iterator;
  * @author Antony
  * @since 2018-4-18
  * 
- * 
  */
 public class MardingList<W> implements Iterable {
 	// 用来存放数据
