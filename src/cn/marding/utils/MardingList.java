@@ -9,7 +9,7 @@ import java.util.Iterator;
  * @version 1.0
  * @author Antony
  * @since 2018-4-18
- * 
+ * ssaddas
 =======
 >>>>>>> branch 'master' of https://github.com/cnmarding/MardingUtils.git
  */
