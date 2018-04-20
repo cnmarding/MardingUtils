@@ -5,10 +5,13 @@ import java.util.Iterator;
 
 /**
  * 码丁集合1.0 更加完善的有序数据存储集合
+<<<<<<< HEAD
  * @version 1.0
  * @author Antony
  * @since 2018-4-18
  * 
+=======
+>>>>>>> branch 'master' of https://github.com/cnmarding/MardingUtils.git
  */
 public class MardingList<W> implements Iterable {
 	// 用来存放数据
