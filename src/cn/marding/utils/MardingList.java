@@ -113,9 +113,7 @@ public class MardingList<W> implements Iterable {
 		for (; split < newElementData.length; split++) {
 			newElementData[split] = elementData[split + 1];
 		}
-
 		elementData = newElementData;
-
 		return true;
 	}
 
